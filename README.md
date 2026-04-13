@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Arya
 
-<!--
-**aryasa-dev/aryasa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer focused on building modern, scalable web applications.
 
-Here are some ideas to get you started:
+I specialize in crafting clean UI, smooth user experience, and integrating powerful backend & AI systems into real-world products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 What I Do
+- Build responsive & high-performance websites
+- Develop SaaS dashboards & web apps
+- Integrate APIs & AI (OpenAI, automation, etc.)
+- Turn business ideas into real digital products
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** Next.js, React, TypeScript
+- **Styling:** Tailwind CSS
+- **Backend:** Node.js, Prisma
+- **Tools:** Git, Vercel, REST API
+
+---
+
+## 🚀 Featured Projects
+🔹 **Landing Page & Company Profile**  
+High-converting websites for brands & businesses.
+
+---
+
+## 📈 Currently Building
+- AI-powered tools & automation systems
+- Scalable SaaS products
+- Personal branding & freelance system
+
+---
+
+## 🤝 Let's Collaborate
+I'm open to freelance projects, collaborations, or full-time opportunities.
+
+📩 Reach me:
+- Email: aryasadev21@gmail.com
+- Portfolio: https://aryasa.vercel.app
+
+---
+
+⭐️ *"I don’t just build websites — I build products that solve real problems."*
