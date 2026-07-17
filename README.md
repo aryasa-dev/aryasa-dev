@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Arya
 
-🚀 Frontend Developer focused on building modern, scalable web applications.
+Frontend Developer focused on building modern, scalable web applications.
 
 I specialize in crafting clean UI, smooth user experience, and integrating powerful backend & AI systems into real-world products.
 
 ---
 
-## 💡 What I Do
+## What I Do
 - Build responsive & high-performance websites
 - Develop SaaS dashboards & web apps
 - Integrate APIs & AI (OpenAI, automation, etc.)
@@ -14,7 +14,7 @@ I specialize in crafting clean UI, smooth user experience, and integrating power
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend:** Next.js, React, TypeScript
 - **Styling:** Tailwind CSS
 - **Backend:** Node.js, Prisma
@@ -22,20 +22,20 @@ I specialize in crafting clean UI, smooth user experience, and integrating power
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 🔹 **Landing Page & Company Profile**  
 High-converting websites for brands & businesses.
 
 ---
 
-## 📈 Currently Building
+## Currently Building
 - AI-powered tools & automation systems
 - Scalable SaaS products
 - Personal branding & freelance system
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 I'm open to freelance projects, collaborations, or full-time opportunities.
 
 📩 Reach me:
